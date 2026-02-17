@@ -13,7 +13,7 @@ This project focuses on the generation, customization, and deployment of remote 
 ## 📄 Laboratory Documentation
 The full technical report, including all terminal outputs, annotated screenshots of successful sessions, and step-by-step answers, is available here:
 
-👉 **[View MSFVenom Lab Report](./docs/MSFVenom_Payload_Lab.pdf)**
+👉 **[View MSFVenom Lab Report](./MSFVenom_Payload_Lab.pdf)**
 
 ---
 
